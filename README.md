@@ -10,5 +10,4 @@ Here are some ideas to get you started:
 - 📧 Contate-me no e-mail: wessmarcelo@gmail.com
 - 👯 Procuro ajudar mais na área do Front-end
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: ...
 -->
