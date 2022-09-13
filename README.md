@@ -5,4 +5,8 @@
 - 📧 Contate-me no e-mail: wessmarcelo@gmail.com
 - 😄 Pronouns: ele/dele
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uellei)](https://github.com/Uellei)
+<div>
+  <a href="https://beacons.ai/uellei">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=uellei&show_icons=true&theme=dracula&include_all_commits=true&count_private-true">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uellei&layout=compact&langs_count=16&theme=dracula">
+</div>
