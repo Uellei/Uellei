@@ -5,4 +5,4 @@
 - 📧 Contate-me no e-mail: wessmarcelo@gmail.com
 - 😄 Pronouns: ele/dele
 
-![Weslley Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=uellei&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uellei)](https://github.com/Uellei)
