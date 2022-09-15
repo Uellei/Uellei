@@ -8,6 +8,6 @@
 <div>
   <a href="https://github.com/Uellei">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=uellei&show_icons=true&theme=dracula&include_all_commits=true&count_private-true">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uellei&layout=compact&langs_count=16&theme=dracula">
+  <img height="181cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uellei&layout=compact&langs_count=16&theme=dracula">
 </div>
 
