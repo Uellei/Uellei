@@ -1,9 +1,9 @@
 ### Olá, Sou o Weslley Marcelo 😆
 
-- 🔭 Hoje estou estudando para me tornar um Desenvolvedor Full-Stack, por enquanto estou focado no Front-end
-- 🌱 Estudando JavaScript
+- 👨‍🎓 Engenharia da Computação - 5/10
+- 🔭 Trabalho como RPA Developer utilizando python e playwright como ferramentas principais, e também estudo um desenvolvimento mobile.
+- 🌱 Estudando Python, C, React Native
 - 📧 Contate-me no e-mail: wessmarcelo@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/Uellei">
