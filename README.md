@@ -1,7 +1,7 @@
 ### Olá, Sou o Weslley Marcelo 😆
 
 - 👨‍🎓 Engenharia da Computação - 5/10
-- 🔭 Trabalho como RPA Developer utilizando python e playwright como ferramentas principais, e também estudo um desenvolvimento mobile.
+- 🔭 Trabalho como RPA Developer utilizando python e playwright como ferramentas principais, e também me interesso na área de desenvolvimento mobile.
 - 🌱 Estudando Python, C, React Native
 - 📧 Contate-me no e-mail: wessmarcelo@gmail.com
 
