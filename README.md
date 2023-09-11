@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Engenharia da Computação - 6/10
 - 🔭 Trabalho como RPA Developer utilizando python e playwright como ferramentas principais, e também me interesso na área de desenvolvimento mobile.
-- 🌱 Tenho Conhecimento em Python, C, JavaScript e React Native, Java.
+- 🌱 Tenho conhecimento em Python, C, JavaScript e React Native, Java.
 - 📧 Contate-me no e-mail: wessmarcelo@gmail.com
 
 <div>
